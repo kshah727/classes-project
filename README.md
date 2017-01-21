@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Classes Project
+## Classes Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for the classes Project*
 
 **Java 7**
 
