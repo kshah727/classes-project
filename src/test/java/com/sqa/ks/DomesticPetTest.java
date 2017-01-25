@@ -76,6 +76,7 @@ public class DomesticPetTest {
 		Assert.assertEquals("fish is not created correctly.", expected, fish.toString());
 	}
 
+	// why did we not add @test here?
 	public void testZooOfAnimals() {
 		this.numOfPets++;
 		if (this.numOfPets == 5) {
